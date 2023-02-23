@@ -1,0 +1,12 @@
+﻿.swagger-ui .topbar {
+    display: none;
+}
+
+.swagger-ui .info {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.swagger-ui .scheme-container {
+    display: none;
+}
